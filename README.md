@@ -1,4 +1,4 @@
-![](./images/parser_arch.svg)
+![](./codegen/parser_arch.svg)
 # tvm_mlir_learn
 
 ## preoject introduction
